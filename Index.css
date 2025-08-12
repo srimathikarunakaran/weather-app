@@ -5,7 +5,10 @@
     box-sizing: border-box;
 }
 body{
-    background: #222;
+    background: linear-gradient(to right, rgb(90, 6, 116), rgb(5, 4, 85));
+    text-align: center;
+    margin-top: 40px;
+    color: #e6c4c4;
 }
 
 .Card{
