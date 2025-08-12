@@ -44,12 +44,11 @@ body{
 .search button{
     border: 0;
     outline: 0;
-    background: linear-gradient(10deg,#87a9c9,#3a28ad);
+    background: linear-gradient(10deg,#020f1d,#a69de27e);
     border-radius: 50%;
-    width: 70px;
+    width: 50px;
     height: 50px;
     cursor: pointer;
-    font-size: large;
 }
 
 .search button img{
